@@ -1,0 +1,2 @@
+Common File Write by process P1
+File Writing Complete
